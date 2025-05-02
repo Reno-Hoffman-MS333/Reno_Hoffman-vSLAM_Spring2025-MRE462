@@ -7,22 +7,18 @@ Looking to this vSLAM project is broken into 2 parts Code 1 is a examination and
 1. VSLam example
   I.Generalized setup
 
-  II. Map Initialization
+  II. Initialization
   
-  III. Mapping Results
+  III. Results
  
 
 
 3. My SLAM Implementation
    I. Data set
+   Data set was taken from a video file of my desktop in my dorm then converted to individual jpg files placed into an image folder for the program to then work through currently residing in FunctionsandImageData/VSLAMIMAGES/. All extra functions needed for the program also Reside in Functions folder. Video length was only about 30 seconds with a total of 110 Frames used for local mapping.
    
-   II. Map Initialization
+   II. Results
+Results folder in Code2 contains information from sections that I was able to aquire in my testing such as map initilization, refined inital reconstruction, then the current local mapping process that seems to be incomplete due to issues with 
    
-   III. Initial Reconstruction
-   
-   IV. Mapping
-   
-   V. Results
-   
-   VI. Errors
-   
+   III. Errors
+   In the results folder of Code2
