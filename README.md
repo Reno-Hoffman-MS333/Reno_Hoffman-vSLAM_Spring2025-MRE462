@@ -5,6 +5,7 @@ Looking to this vSLAM project is broken into 2 parts Code 1 is a examination and
 
 
 1. VSLam example
+
   I.Generalized setup
 
   II. Initialization
@@ -13,7 +14,9 @@ Looking to this vSLAM project is broken into 2 parts Code 1 is a examination and
  
 
 
-3. My SLAM Implementation
+2. My SLAM Implementation
+
+
    I. Data set
    Data set was taken from a video file of my desktop in my dorm then converted to individual jpg files placed into an image folder for the program to then work through currently residing in FunctionsandImageData/VSLAMIMAGES/. All extra functions needed for the program also Reside in Functions folder. Video length was only about 30 seconds with a total of 110 Frames used for local mapping.
    
